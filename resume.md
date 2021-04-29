@@ -16,6 +16,11 @@ Senior software developer. Developing web applications using ASP.NET, PHP and Py
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+### <span>Senior Machine Learning Engineer, Mawdoo3 (Part Time)</span> <span>November 2019 - Present</span>
+- Developed a Arabic-Dialect Identification model that ranked the first in Madar workshop
+- Developed co-reference resolution model
+- Developed an Intent Clustering model for Arabic text
+- Participate in developing a Personal Assistant application to be used by Banking and Telecom customers
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
 
 As an educational organization, the American University in Cairo utilizes many systems: Banner for students inforation, SAP as an ERP system, Blackboard and Moodle as a learning management systems and many systems. All these systems need to talk to each other. Our goal, in systems integration team, is to develop integration solutions that allow these systems to talk to each other smoothly.

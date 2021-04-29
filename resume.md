@@ -16,7 +16,7 @@ Senior software developer. Developing web applications using ASP.NET, PHP and Py
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Senior Machine Learning Engineer, Mawdoo3 (Part Time)</span> <span>November 2019 - Present</span>
+### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part Time)</span> <span>November 2019 - Present</span>
 - Developed a Arabic-Dialect Identification model that ranked the first in Madar workshop
 - Developed co-reference resolution model
 - Developed an Intent Clustering model for Arabic text

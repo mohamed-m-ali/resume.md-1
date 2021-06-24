@@ -29,11 +29,13 @@ As an educational organization, the American University in Cairo utilizes many s
  - Architect, design and develop integration projects using Microsoft SSIS
  - Design and develop integration projects using AxiomElite
  - Develop integration projects using Jitterbit
- - Desing and develop REST APIs to enable integration among heterogeneous systems
+ - Design and develop REST APIs to enable integration among heterogeneous systems
 #### Main Projects:
  - Banner-Salesforce Integration: participated in developing an integration solution using Jitterbit to automate uploading graduating students' information from Banner to Salesforce
  - Blackboard-Banner Integration: developed an integration solution to automate removing holds to allow registeration on Banner as soon as students pass pre-defined exams on Blackboard
  - Assistantship-Banner Integration: developed an integration solution to automate uploading Teaching Assistants inforation from Assistantship system to Banner
+ - BI-CampusGroup Integration: developed an integration solution to automate loading students, staff and faculty data from AUC data warehouse system to AUC community platform on CampusGroup
+ - StarRez-Banner Integration: developed an integration soultion to automatically load finanacial reports and room bookings from StarRez (AUC housing system) to Banner
  
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>

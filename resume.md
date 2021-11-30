@@ -79,6 +79,11 @@ In Minia University, we were having a students affairs management system to keep
  - Pattern Analysis
  - Speech Processing
  - Image Processing
+## Certifications
+### The Open Group Certified: TOGAF® 9 Certified
+### Oracle Database 10g Administrator Certified Professional
+### Microsoft Certified Technology Specialist: SQL Server 2008, Implementation and Maintenance.
+### Microsoft Certified IT Professional: Database Administrator 2008
 ## Publications
 ### Character-Level Convolutional Neural Network for German Dialect Identification
 ### Character-level convolutional neural network for Arabic dialect identification
@@ -93,3 +98,4 @@ In Minia University, we were having a students affairs management system to keep
 ## Awards
 ### SPOT Award from American University in Cairo, September 2019
 ### SPOT Award from American University in Cairo, October 2020
+### SPOT Award from American University in Cairo, October 2021

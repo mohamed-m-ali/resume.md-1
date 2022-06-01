@@ -33,6 +33,7 @@ As an educational organization, the American University in Cairo utilizes many s
  - Design and develop integration projects using AxiomElite
  - Develop integration projects using Jitterbit
  - Design and develop REST APIs to enable integration among heterogeneous systems
+ - Build Continous Integration-Continous Deployment Pipelines using Github Workflows
 #### Main Projects:
  - Banner-Salesforce Integration: participated in developing an integration solution using Jitterbit to automate uploading graduating students' information from Banner to Salesforce
  - Blackboard-Banner Integration: developed an integration solution to automate removing holds to allow registeration on Banner as soon as students pass pre-defined exams on Blackboard

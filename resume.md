@@ -5,6 +5,7 @@
 line. It is intended to be used for contact details -->
 - <mo7amed3ly@gmail.com>
 - (+20) 01001839504
+- [linkedIn.com/in/mo7amed3ly](https://linkedIn.com/in/mo7amed3ly)
 - [mo7amed3ly.github.io](http://mo7amed3ly.github.io)
 - Cairo, Egypt
 
@@ -17,10 +18,12 @@ Senior software developer. Developing web applications using ASP.NET, PHP and Py
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part Time)</span> <span>November 2019 - Present</span>
-- Developed a Arabic-Dialect Identification model that ranked the first in Madar workshop
-- Developed co-reference resolution model
-- Developed an Intent Clustering model for Arabic text
+- Develope a Arabic-Dialect Identification model that ranked the first in Madar workshop
+- Develope co-reference resolution model
+- Develope an Intent Clustering model for Arabic text
 - Participate in developing a Personal Assistant application to be used by Banking and Telecom customers
+- Develop and maintain Inverse Text Normalization models
+- Build Machine Learning deployment pipelines
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
 
 As an educational organization, the American University in Cairo utilizes many systems: Banner for students inforation, SAP as an ERP system, Blackboard and Moodle as a learning management systems and many systems. All these systems need to talk to each other. Our goal, in systems integration team, is to develop integration solutions that allow these systems to talk to each other smoothly.
@@ -41,10 +44,10 @@ As an educational organization, the American University in Cairo utilizes many s
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
 The software development team in the Arabic Language Institute was resposible for developing web application to over services for faculty, satff and students. These services were ranging from allowing students to take their placement exams remotely, allowing faculty to publish their educational materials online.
 #### Main Responsibilties:
- - Design and develop web applications using ASP.NET Web Forms
- - Design and develop web applications using ASP.NET MVC
- - Design and develop web applications using Drupal content management system
- - Design, develop and manage SQL Server and MySQL databases
+ - Designed and developed web applications using ASP.NET Web Forms
+ - Designed and developed web applications using ASP.NET MVC
+ - Designed and developed web applications using Drupal content management system
+ - Designed, developed and managed SQL Server and MySQL databases
 #### Main Projects:
  - Online Exam System: participated and developing an online examination system to allow foreign students to take their placement exams remotely
  - Asset Tracking System: participated in developing a system to track department computing equipements as printers, scanners, laptops and desktop computers
@@ -53,10 +56,10 @@ The software development team in the Arabic Language Institute was resposible fo
 ### <span>SQL Server Database Administrator, Minia University</span> <span>November 2003 -- November 2008</span>
 In Minia University, we were having a students affairs management system to keep all students information starting from registeration till graduation. The system was having a SQL Server database. We were reponsible for adminstering and maintaining this database.
 #### Main Responsibilties:
- - Install and adminster SQL Server databases
+ - Installed and adminstered SQL Server databases
  - Set backup and recovery startegy
- - Add, remove and grant permissions to database users
- - Create stored procedures, functions
+ - Managed granting and revoking permissions to database users
+ - Createed stored procedures, functions
 
 ## Education
 
@@ -79,23 +82,29 @@ In Minia University, we were having a students affairs management system to keep
  - Pattern Analysis
  - Speech Processing
  - Image Processing
+## Awards
+### SPOT Award from American University in Cairo, September 2019
+### SPOT Award from American University in Cairo, October 2020
+### SPOT Award from American University in Cairo, October 2021
+
 ## Certifications
-### The Open Group Certified: TOGAF® 9 Certified
+### AWS Certified Solutions Architect
+### The Open Group Certified: TOGAF® 9
 ### Oracle Database 10g Administrator Certified Professional
 ### Microsoft Certified Technology Specialist: SQL Server 2008, Implementation and Maintenance.
 ### Microsoft Certified IT Professional: Database Administrator 2008
+
 ## Publications
 ### Character-Level Convolutional Neural Network for German Dialect Identification
 ### Character-level convolutional neural network for Arabic dialect identification
 ### Character-level convolutional neural network for Indo-Aryan language identification
  - publication date: Aug 2018  
  - publication description: Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018)
+### Multi-Dialect Arabic BERT for Country-Level Dialect Identification
 ## Skills
  - Programming Languages: C++, C#, Python, Java
  - Web Development: ASP.NET, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap 
  - Machine Learning: nltk, sklearn, keras, pytorch, tensorflow, numpy, matplotlib, pandas
  - Systems Integration: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite
-## Awards
-### SPOT Award from American University in Cairo, September 2019
-### SPOT Award from American University in Cairo, October 2020
-### SPOT Award from American University in Cairo, October 2021
+ - Cloud Computing: AWS, Azure
+

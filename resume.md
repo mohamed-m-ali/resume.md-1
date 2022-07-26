@@ -11,18 +11,19 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Senior software developer. Developing web applications using ASP.NET, PHP and Python since 2005. Developing NLP Machine Learning applications since 2015. Developing Systems Integration projects using Biztalk, JitterBit and Microsoft SSIS since 2018.
+Senior software developer. Developing web applications using ASP.NET, PHP and Python since 2005. Developing NLP Machine Learning applications since 2015. Developing Systems Integration solutions using Biztalk, JitterBit and Microsoft SSIS since 2018.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part Time)</span> <span>November 2019 - Present</span>
-- Develop a Arabic-Dialect Identification model that ranked the first in Madar workshop
-- Develop co-reference resolution model
-- Develop an Intent Clustering model for Arabic text
+- Develop Arabic-Dialect Identification models
+- Develop Co-Reference Resolution model
+- Develop an Intent Clustering and Calssification models for Arabic text
 - Participate in developing a Personal Assistant application to be used by Banking and Telecom customers
 - Develop and maintain Inverse Text Normalization models
+- Develop and maitain Arabic-based Named Entity Recognition (NER) models
 - Build Machine Learning deployment pipelines
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
 

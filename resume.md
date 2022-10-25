@@ -104,9 +104,9 @@ In Minia University, we were having a students affairs management system to keep
  - publication description: Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018)
 ### Multi-Dialect Arabic BERT for Country-Level Dialect Identification
 ## Skills
- - Programming Languages: C++, C#, Python, Java
- - Web Development: ASP.NET, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap 
- - Machine Learning: nltk, sklearn, keras, pytorch, tensorflow, numpy, matplotlib, pandas
- - Systems Integration: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite
- - Cloud Computing: AWS, Azure
- - DevOps: Git, Docker, GitHub, GitHub Actions, Azure DevOps
+ - __Programming Languages__: C++, C#, Python, Java
+ - __Web Development__: ASP.NET, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap 
+ - __Machine Learning__: nltk, sklearn, keras, pytorch, tensorflow, numpy, matplotlib, pandas
+ - __Systems Integration__: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite
+ - __Cloud Computing__: AWS, Azure
+ - __DevOps__: Git, Docker, GitHub, GitHub Actions, Azure DevOps

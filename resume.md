@@ -109,4 +109,4 @@ In Minia University, we were having a students affairs management system to keep
  - Machine Learning: nltk, sklearn, keras, pytorch, tensorflow, numpy, matplotlib, pandas
  - Systems Integration: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite
  - Cloud Computing: AWS, Azure
-
+ - DevOps: Git, Docker, GitHub, GitHub Actions, Azure DevOps

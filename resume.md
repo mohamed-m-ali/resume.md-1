@@ -59,12 +59,9 @@ In Minia University, we were having a students affairs management system to keep
  - Natural Language Processing
  - Neural Networks
  - Computer Vision
- - Advanced Artifical Intelligence
- - Data Mining
 ### <span>Cairo University, Bachelor of Computers and Information</span> <span>1998 -- 2002</span>
   - Grade: Very Good (79.5%)
 #### Main Coursework:
- - Data Structure
  - Pattern Analysis
  - Speech Processing
  - Image Processing

@@ -27,7 +27,7 @@ As an educational organization, the American University in Cairo utilizes many s
  - Architect, design and develop ETL integration projects using Microsoft SSIS
  - Design and develop SQL-based ETL integration projects using AxiomElite
  - Build Continous Integration-Continous Deployment Pipelines using Github Workflows
- - Build Integation Packages to sync files on AWS S3 buckets
+ - Build Integation Packages using .NET to sync files on AWS S3 buckets
 #### Main Projects:
  - Banner-Salesforce Integration: participated in developing an integration solution using Jitterbit to automate uploading graduating students' information from Banner to Salesforce
  - Blackboard-Banner Integration: developed an integration solution to automate removing holds to allow registeration on Banner as soon as students pass pre-defined exams on Blackboard

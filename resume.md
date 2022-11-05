@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Senior software developer. Developing web applications using ASP.NET, PHP and Python since 2005. Developing NLP Machine Learning applications since 2015. Developing Systems Integration solutions using Biztalk, JitterBit and Microsoft SSIS since 2018.
+Senior software developer. Developing web applications using ASP.NET, PHP and Python since 2005. Developing NLP Machine Learning applications since 2015. Developing Systems Integration solutions using Biztalk, JitterBit and Microsoft SSIS since 2018. Looking for a Senior/Principle/Lead Software Developer position in a Software House.
 
 ## Experience
 
@@ -28,12 +28,6 @@ As an educational organization, the American University in Cairo utilizes many s
  - Design and develop SQL-based ETL integration projects using AxiomElite
  - Build Continous Integration-Continous Deployment Pipelines using Github Workflows
  - Build Integation Packages using .NET to sync files on AWS S3 buckets
-#### Main Projects:
- - Banner-Salesforce Integration: participated in developing an integration solution using Jitterbit to automate uploading graduating students' information from Banner to Salesforce
- - Blackboard-Banner Integration: developed an integration solution to automate removing holds to allow registeration on Banner as soon as students pass pre-defined exams on Blackboard
- - Assistantship-Banner Integration: developed an integration solution to automate uploading Teaching Assistants inforation from Assistantship system to Banner
- - BI-CampusGroup Integration: developed an integration solution to automate loading students, staff and faculty data from AUC data warehouse system to AUC community platform on CampusGroup
- - StarRez-Banner Integration: developed an integration soultion to automatically load finanacial reports and room bookings from StarRez (AUC housing system) to Banner
 
 ### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part Time)</span> <span>November 2019 - November 2022</span>
 - Developed Arabic-Dialect Identification models
@@ -51,10 +45,6 @@ The software development team in the Arabic Language Institute was resposible fo
  - Designed and developed web applications using ASP.NET MVC
  - Designed and developed web applications using Drupal content management system
  - Designed, developed and managed SQL Server and MySQL databases
-#### Main Projects:
- - Online Exam System: participated and developing an online examination system to allow foreign students to take their placement exams remotely
- - Asset Tracking System: participated in developing a system to track department computing equipements as printers, scanners, laptops and desktop computers
- - Online Library: participated in developing a library website to allow faculty members to publish their educational materials online
  
 ### <span>SQL Server Database Administrator, Minia University</span> <span>November 2003 -- November 2008</span>
 In Minia University, we were having a students affairs management system to keep all students information starting from registeration till graduation. The system was having a SQL Server database. We were reponsible for adminstering and maintaining this database.

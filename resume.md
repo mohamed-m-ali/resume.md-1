@@ -14,11 +14,9 @@ is intended to be used for a short summary. -->
 Senior software developer. Developing web applications using ASP.NET, PHP and Python since 2005. Developing NLP Machine Learning applications since 2015. Developing Systems Integration solutions using Biztalk, JitterBit and Microsoft SSIS since 2018. Looking for a Senior/Principle/Lead Software Developer position in a Software House.
 
 ## Experience
-
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
-
 As an educational organization, the American University in Cairo utilizes many systems: Banner for students inforation, SAP as an ERP system, Blackboard and Moodle as a learning management systems and many systems. All these systems need to talk to each other. Our goal, in systems integration team, is to develop integration solutions that allow these systems to talk to each other smoothly.
 #### Main Responsibilties:
  - Design and develop REST APIs using ASP.NET Core to enable integration among heterogeneous systems
@@ -55,9 +53,7 @@ In Minia University, we were having a students affairs management system to keep
  - Createed stored procedures, functions
 
 ## Education
-
 ### <span>American University, Master of Computing</span> <span>2010 -- 2015</span>
-
   - GPA 3.76
 #### Main Coursework:
  - Natural Language Processing
@@ -65,13 +61,10 @@ In Minia University, we were having a students affairs management system to keep
  - Computer Vision
  - Advanced Artifical Intelligence
  - Data Mining
-
 ### <span>Cairo University, Bachelor of Computers and Information</span> <span>1998 -- 2002</span>
-
   - Grade: Very Good (79.5%)
 #### Main Coursework:
  - Data Structure
- - Operating Systems
  - Pattern Analysis
  - Speech Processing
  - Image Processing
@@ -79,14 +72,12 @@ In Minia University, we were having a students affairs management system to keep
 ### SPOT Award from American University in Cairo, September 2019
 ### SPOT Award from American University in Cairo, October 2020
 ### SPOT Award from American University in Cairo, October 2021
-
 ## Certifications
 ### AWS Certified Solutions Architect
 ### The Open Group Certified: TOGAF® 9
 ### Oracle Database 10g Administrator Certified Professional
 ### Microsoft Certified Technology Specialist: SQL Server 2008, Implementation and Maintenance.
 ### Microsoft Certified IT Professional: Database Administrator 2008
-
 ## Publications
 ### Character-Level Convolutional Neural Network for German Dialect Identification
 ### Character-level convolutional neural network for Arabic dialect identification

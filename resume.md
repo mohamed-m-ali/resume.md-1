@@ -19,22 +19,24 @@ hand -->
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
 As an educational organization, the American University in Cairo utilizes many systems: Banner for students inforation, SAP as an ERP system, Blackboard and Moodle as a learning management systems and many systems. All these systems need to talk to each other. Our goal, in systems integration team, is to develop integration solutions that allow these systems to talk to each other smoothly.
 #### Main Responsibilties:
- - Design and develop REST APIs using ASP.NET Core to enable integration among heterogeneous systems
+ - Design and develop REST APIs using ASP.NET, Python and PHP to enable integration among heterogeneous systems
  - Design and develop SOAP Web Services using Windows Communication Foundation (WCF)
  - Architect, design and develop integration projects using Biztalk
- - Architect, design and develop ETL integration projects using Microsoft SSIS
- - Design and develop SQL-based ETL integration projects using AxiomElite
+ - Design and develop extract, transform and load (ETL) integration projects using Microsoft SSIS
+ - Design and develop extract, transform and load (ETL) integration projects using AxiomElite
+ - Desing and develop SQL functions and stored procedures in SQL Server and Oracle databases
  - Build Continous Integration-Continous Deployment Pipelines using Github Workflows
- - Build Integation Packages using .NET to sync files on AWS S3 buckets
+ - Desing and develop unit testing, integration testing and load testing
+ - Design, document and test REST APIs using Open API Specification(Swagger) and Postman
 
 ### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part Time)</span> <span>November 2019 - November 2022</span>
 - Developed Arabic-Dialect Identification models
 - Developed English Co-Reference Resolution model
-- Developed an Intent Clustering and Calssification models for Arabic text
-- Participateed in developing a Personal Assistant application to be used by Banking and Telecom customers
+- Developed Intent Clustering and Calssification models for Arabic text
 - Developed Arabic-based Inverse Text Normalization models
 - Developed and finetuned Arabic-based Named Entity Recognition (NER) models
-- Built Machine Learning deployment pipelines 
+- Built Machine Learning deployment pipelines
+- Used data visualization and analysis python libraries to explore and get insights from datasets
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
 The software development team in the Arabic Language Institute was resposible for developing web application to over services for faculty, satff and students. These services were ranging from allowing students to take their placement exams remotely, allowing faculty to publish their educational materials online.

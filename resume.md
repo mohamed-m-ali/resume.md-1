@@ -50,7 +50,7 @@ In Minia University, we were having a students affairs management system to keep
  - Installed and adminstered SQL Server databases
  - Set backup and recovery startegy
  - Managed granting and revoking permissions to database users
- - Createed stored procedures, functions
+ - Designed and developed SQL Server stored procedures, functions, tables and views
 
 ## Education
 ### <span>American University, Master of Computing</span> <span>2010 -- 2015</span>

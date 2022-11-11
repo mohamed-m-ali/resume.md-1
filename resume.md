@@ -19,11 +19,10 @@ hand -->
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
 As an educational organization, the American University in Cairo utilizes many systems: Banner for students inforation, SAP as an ERP system, Blackboard and Moodle as a learning management systems and many systems. All these systems need to talk to each other. Our goal, in systems integration team, is to develop integration solutions that allow these systems to talk to each other smoothly.
 #### Main Responsibilties:
- - Design and develop REST APIs using ASP.NET, Python and PHP to enable integration among heterogeneous systems
+ - Design and develop REST APIs using ASP.NET, Python and PHP to enable integration among systems
  - Design and develop SOAP Web Services using Windows Communication Foundation (WCF)
  - Architect, design and develop integration projects using Biztalk
  - Design and develop extract, transform and load (ETL) integration projects using Microsoft SSIS
- - Design and develop extract, transform and load (ETL) integration projects using AxiomElite
  - Desing and develop SQL functions and stored procedures in SQL Server and Oracle databases
  - Build Continous Integration-Continous Deployment Pipelines using Github Workflows
  - Desing and develop unit testing, integration testing and load testing
@@ -35,7 +34,6 @@ As an educational organization, the American University in Cairo utilizes many s
 - Developed Intent Clustering and Calssification models for Arabic text
 - Developed Arabic-based Inverse Text Normalization models
 - Developed and finetuned Arabic-based Named Entity Recognition (NER) models
-- Built Machine Learning deployment pipelines
 - Used data visualization and analysis python libraries to explore and get insights from datasets
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
@@ -58,7 +56,7 @@ In Minia University, we were having a students affairs management system to keep
 ### <span>American University, Master of Computing</span> <span>2010 -- 2015</span>
   - GPA 3.76
 #### Main Coursework:
- - Natural Language Processing
+ - Data Mining
  - Neural Networks
  - Computer Vision
 ### <span>Cairo University, Bachelor of Computers and Information</span> <span>1998 -- 2002</span>

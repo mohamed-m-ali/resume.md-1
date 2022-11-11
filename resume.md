@@ -79,12 +79,11 @@ In Minia University, we were having a students affairs management system to keep
 ### Character-Level Convolutional Neural Network for German Dialect Identification
 ### Character-level convolutional neural network for Arabic dialect identification
 ### Character-level convolutional neural network for Indo-Aryan language identification
- - publication date: Aug 2018  
- - publication description: Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018)
 ### Multi-Dialect Arabic BERT for Country-Level Dialect Identification
 ## Skills
  - __Programming Languages__: C++, C#, Python, Java
- - __Web Development__: ASP.NET, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap 
+ - __Web Development__: ASP.NET, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap
+ - __Databases__: MS SQL Server, Oracle, MySQL, PostgreSQL, Amazon RDS
  - __Machine Learning__: nltk, sklearn, keras, pytorch, tensorflow, numpy, matplotlib, pandas
  - __Systems Integration__: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite
  - __Cloud Computing__: AWS, Azure

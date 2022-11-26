@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Senior software developer. Developing web applications using ASP.NET, PHP and Python since 2005. Developing NLP Machine Learning applications since 2015. Developing Systems Integration solutions using Biztalk, JitterBit and Microsoft SSIS since 2018. Looking for a Senior/Principle/Lead Software Developer position in a Software House.
+Senior software developer. Developing web applications using ASP.NET, PHP and Python since 2005. Developing NLP Machine Learning applications since 2015. Developing Systems Integration solutions using Biztalk, JitterBit and Microsoft SSIS since 2018. Looking for a Senior/Principle/Lead Software Developer position in a Software Company.
 
 ## Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -19,13 +19,15 @@ hand -->
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
 As an educational organization, the American University in Cairo utilizes many systems: Banner for students inforation, SAP as an ERP system, Blackboard and Moodle as a learning management systems and many systems. All these systems need to talk to each other. Our goal, in systems integration team, is to develop integration solutions that allow these systems to talk to each other smoothly.
 #### Main Responsibilties:
- - Design and develop REST APIs using ASP.NET, Python and PHP to enable integration among systems
- - Design and develop SOAP Web Services using Windows Communication Foundation (WCF)
  - Architect, design and develop integration projects using Biztalk
+ - Develop Biztalk artifacts as Orchestrations, Pipelines and Pipeline components
+ - Create and configure Biztalk Send/Receive Ports
+ - Design and develop SOAP Web Services using Windows Communication Foundation (WCF)
+ - Design and develop REST APIs using ASP.NET, Python and PHP to enable integration among systems
  - Design and develop extract, transform and load (ETL) integration projects using Microsoft SSIS
- - Desing and develop SQL functions and stored procedures in SQL Server and Oracle databases
+ - Design and develop SQL functions and stored procedures in SQL Server and Oracle databases
  - Build Continous Integration-Continous Deployment Pipelines using Github Workflows
- - Desing and develop unit testing, integration testing and load testing
+ - Design and develop unit testing, integration testing and load testing
  - Design, document and test REST APIs using Open API Specification(Swagger) and Postman
 
 ### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part Time)</span> <span>November 2019 - November 2022</span>
@@ -37,7 +39,7 @@ As an educational organization, the American University in Cairo utilizes many s
 - Used data visualization and analysis python libraries to explore and get insights from datasets
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
-The software development team in the Arabic Language Institute was resposible for developing web application to over services for faculty, satff and students. These services were ranging from allowing students to take their placement exams remotely, allowing faculty to publish their educational materials online.
+The software development team in the Arabic Language Institute was resposible for developing web application to over services for faculty, staff and students. These services were ranging from allowing students to take their placement exams remotely, allowing faculty to publish their educational materials online.
 #### Main Responsibilties:
  - Designed and developed web applications using ASP.NET Web Forms
  - Designed and developed web applications using ASP.NET MVC

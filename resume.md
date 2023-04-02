@@ -86,7 +86,7 @@ In Minia University, we were having a students affairs management system to keep
  - __Programming Languages__: C++, C#, Python, Java
  - __Web Development__: ASP.NET, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap
  - __Databases__: MS SQL Server, Oracle, MySQL, PostgreSQL, Amazon RDS
- - __Machine Learning__: nltk, sklearn, keras, pytorch, tensorflow, numpy, matplotlib, pandas
+ - __Machine Learning__: nltk, sklearn, keras, tensorflow, pytorch, numpy, matplotlib, pandas
  - __Systems Integration__: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite
  - __Cloud Computing__: AWS, Azure
  - __DevOps__: Git, Docker, GitHub, GitHub Actions, Azure DevOps

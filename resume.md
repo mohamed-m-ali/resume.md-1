@@ -16,20 +16,29 @@ Senior software developer. Developing web applications using ASP.NET, PHP, and P
 ## Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span>
-As an educational organization, the American University in Cairo utilizes many systems: Banner for student information, SAP as an ERP system, Blackboard and Moodle as learning management systems and many systems. All these systems need to talk to each other. Our goal in the systems integration team is to develop integration solutions that allow these systems to integrate smoothly.
+As an educational organization, the American University in Cairo utilizes many systems: Banner for student information, SAP as an ERP system, Blackboard and Moodle as learning management systems, and many other systems. All these systems need to talk to each other. Our goal in the systems integration team is to develop integration solutions that allow these systems to integrate smoothly.
 #### Main Responsibilities:
  - Architect, design, and develop integration projects using C# and Biztalk
  - Develop Biztalk artifacts as Orchestrations, Pipelines, and Pipeline components
- - Create and configure Biztalk Send/Receive Ports
  - Design and develop SOAP Web Services using C# and Windows Communication Foundation (WCF)
  - Design and develop REST APIs using ASP.NET Core (C#), Python, and PHP to enable integration among systems
+ - Design and develop web applications using ASP.NET Core
  - Design and develop extract, transform, and load (ETL) integration projects using C# and Microsoft SSIS
- - Design and develop SQL functions and stored procedures in SQL Server and Oracle databases
  - Build Continous Integration-Continous Deployment (CI-CD) Pipelines using Github Workflows
  - Design and develop unit testing, integration testing, and load testing
  - Design, document, and test REST APIs using Open API Specification (Swagger) and Postman
 
+### <span>Senior .Net Developer, Cubic (Part-Time Consultant)</span> <span>December 2023 - Present</span>
+We develop an application to be used by bus drivers to issue tickets, top up rider cards, send and receive messages from back office
+#### Main Responsibilities:
+- Collect, validate and document business requirements
+- Use UML diagrams to document and validate system requirements
+- Conduct system design sessions to discuss system requirements with architects and peer developers
+- Develop C# libraries to run on a tablet running on Windows OS
+- Write unit, integration and deployment tests
+ 
 ### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 - Developed Arabic-Dialect Identification models
 - Developed English Co-Reference Resolution model
@@ -39,20 +48,20 @@ As an educational organization, the American University in Cairo utilizes many s
 - Used data visualization and analysis Python libraries to explore and get insights from datasets
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
-The software development team at the Arabic Language Institute was responsible for developing web applications to over services for faculty, staff, and students. These services ranged from allowing students to take their placement exams remotely to allowing faculty to publish their educational materials online.
-#### Main Responsibilties:
+The software development team at the Arabic Language Institute was responsible for developing web applications to provide services for faculty, staff, and students. These services ranged from allowing students to take their placement exams remotely to allowing faculty to publish their educational materials online.
+#### Main Responsibilities:
  - Designed and developed web applications using C# and ASP.NET Web Forms
  - Designed and developed web applications using C# and ASP.NET MVC
  - Designed and developed web applications using PHP and Drupal content management system
- - Designed, developed and managed SQL Server and MySQL databases
+ - Designed, developed, and managed SQL Server and MySQL databases
  
 ### <span>SQL Server Database Administrator, Minia University</span> <span>November 2003 -- November 2008</span>
-In Minia University, we were having a students affairs management system to keep all students information starting from registeration till graduation. The system was having a SQL Server database. We were reponsible for adminstering and maintaining this database.
-#### Main Responsibilties:
- - Installed and adminstered SQL Server databases
- - Set backup and recovery startegy
+At Minia University, we have a student affairs management system to keep all students' information starting from registration till graduation. The system has a SQL Server database. We were responsible for administering and maintaining this database.
+#### Main Responsibilities:
+ - Installed and administered SQL Server databases
+ - Set backup and recovery strategy
  - Managed granting and revoking permissions to database users
- - Designed and developed SQL Server stored procedures, functions, tables and views
+ - Designed and developed SQL Server stored procedures, functions, tables, and views
 
 ## Education
 ### <span>American University, Master of Computing</span> <span>2010 -- 2015</span>

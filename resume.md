@@ -16,7 +16,7 @@ Experienced Senior Software Developer skilled in ASP.NET, PHP, and Python web de
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>August 2018 - Present</span> <span>Senior Systems Integration Developer, American University in Cairo</span>
+### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span> 
 The primary goal of the university's systems integration team is to facilitate seamless communication and integration among the various software systems utilized by the institution.
 #### Main Responsibilities:
 - Lead the architecture, design, and development of integration projects using C# and BizTalk.
@@ -28,7 +28,7 @@ The primary goal of the university's systems integration team is to facilitate s
 - Implement thorough unit testing, integration testing, and load testing for reliable software solutions.
 - Provide mentorship and guidance to junior developers, ensuring adherence to best practices in software development.
 
-### <span>December 2023 - Present</span> <span>Senior .Net Developer, Cubic (Part-Time Consultant)</span>
+### <span>Senior .Net Developer, Cubic (Part-Time Consultant)</span> <span>December 2023 - Present</span> 
 We develop an application to be used by bus drivers to issue tickets, top up rider cards, and send/receive messages to/from the back office
 #### Main Responsibilities:
 - Gather, verify, and document business requirements to ensure accurate understanding and alignment.
@@ -37,7 +37,7 @@ We develop an application to be used by bus drivers to issue tickets, top up rid
 - Create C# libraries optimized for Windows OS tablets, enabling seamless functionality and performance.
 - Implement comprehensive unit, integration, and deployment tests to ensure high-quality and reliable software.
  
-### <span>November 2019 - November 2022</span> <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> 
+###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 - Built models for Arabic-Dialect Identification to identify dialects of Arabic accurately.
 - Developed an English Co-Reference Resolution model to resolve references in English text.
 - Designed and implemented Intent Clustering and Classification models specifically for Arabic text.
@@ -82,9 +82,7 @@ The software development team at the Arabic Language Institute was responsible f
 ### Microsoft Certified Technology Specialist: SQL Server 2008, Implementation and Maintenance.
 ### Microsoft Certified IT Professional: Database Administrator 2008
 ## Publications
-### Character-Level Convolutional Neural Network for German Dialect Identification
-### Character-level convolutional neural network for Arabic dialect identification
-### Character-level convolutional neural network for Indo-Aryan language identification
+### Character-Level Convolutional Neural Network for Arabic, German and Indo-Aryan Dialect Identification
 ### Multi-Dialect Arabic BERT for Country-Level Dialect Identification
 ## Skills
  - __Programming Languages__: C++, C#, Python, Java

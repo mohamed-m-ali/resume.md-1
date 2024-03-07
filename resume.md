@@ -52,7 +52,7 @@ The software development team at the Arabic Language Institute was responsible f
  - Designed and developed web applications using PHP and Drupal content management system
  - Designed, developed, and managed SQL Server and MySQL databases
  
-### <span>November 2003 -- November 2008</span> <span>SQL Server Database Administrator, Minia University</span>
+### <span>SQL Server Database Administrator, Minia University</span> <span>November 2003 -- November 2008</span> 
 #### Main Responsibilities:
  - Set backup and recovery strategy
  - Managed granting and revoking permissions to database users
@@ -62,15 +62,11 @@ The software development team at the Arabic Language Institute was responsible f
 ### <span>American University, Master of Computing</span> <span>2010 -- 2015</span>
   - GPA 3.76
 #### Main Coursework:
- - Data Mining
- - Neural Networks
- - Computer Vision
+ - Data Mining, Neural Networks and Computer Vision
 ### <span>Cairo University, Bachelor of Computers and Information</span> <span>1998 -- 2002</span>
   - Grade: Very Good (79.5%)
 #### Main Coursework:
- - Pattern Analysis
- - Speech Processing
- - Image Processing
+ - Pattern Analysis, Speech Processing and Image Processing
 ## Awards
 ### SPOT Award from American University in Cairo, September 2019
 ### SPOT Award from American University in Cairo, October 2020

@@ -29,15 +29,16 @@ As an educational organization, the American University in Cairo utilizes many s
  - Build Continous Integration-Continous Deployment (CI-CD) Pipelines using Github Workflows
  - Design and develop unit testing, integration testing, and load testing
  - Design, document, and test REST APIs using Open API Specification (Swagger) and Postman
+ - Mentor and guide junior developers to follow best practices in software development
 
 ### <span>Senior .Net Developer, Cubic (Part-Time Consultant)</span> <span>December 2023 - Present</span>
-We develop an application to be used by bus drivers to issue tickets, top up rider cards, send and receive messages from back office
+We develop an application to be used by bus drivers to issue tickets, top up rider cards, and send/receive messages to/from the back office
 #### Main Responsibilities:
-- Collect, validate and document business requirements
+- Collect, validate, and document business requirements
 - Use UML diagrams to document and validate system requirements
 - Conduct system design sessions to discuss system requirements with architects and peer developers
 - Develop C# libraries to run on a tablet running on Windows OS
-- Write unit, integration and deployment tests
+- Write unit, integration, and deployment tests
  
 ### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 - Developed Arabic-Dialect Identification models

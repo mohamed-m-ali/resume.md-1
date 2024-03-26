@@ -19,20 +19,20 @@ hand -->
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - Present</span> 
 The primary goal of the university's systems integration team is to facilitate seamless communication and integration among the various software systems utilized by the institution.
 #### Main Responsibilities:
-- Lead the architecture, design, and development of integration projects using C# and BizTalk.
+- Architect, design, and develop integration projects using C# and BizTalk.
 - Develop various BizTalk artifacts such as Orchestrations, Pipelines, and Pipeline components.
 - Implement REST APIs and SOAP Web Services using ASP.NET Core (C#), Python, and PHP to facilitate system integration.
 - Build dynamic web applications utilizing ASP.NET Core for efficient and user-friendly experiences.
 - Design and develop Extract, Transform, and Load (ETL) integration projects using C# and Microsoft SSIS.
 - Establish Continuous Integration-Continuous Deployment (CI-CD) Pipelines using Github Workflows.
-- Implement thorough unit testing, integration testing, and load testing for reliable software solutions.
+- Implement thorough unit, integration, and load testing for reliable software solutions.
 - Provide mentorship and guidance to junior developers, ensuring adherence to best practices in software development.
 
 ### <span>Senior .Net Developer, Cubic (Part-Time Consultant)</span> <span>December 2023 - Present</span> 
 We develop an application to be used by bus drivers to issue tickets, top up rider cards, and send/receive messages to/from the back office
 #### Main Responsibilities:
 - Gather, verify, and document business requirements to ensure accurate understanding and alignment.
-- Utilize UML diagrams to capture, document, and validate system requirements effectively.
+- Utilize UML diagrams to effectively capture, document, and validate system requirements.
 - Facilitate productive system design sessions, collaborating with architects and fellow developers to refine requirements.
 - Create C# libraries optimized for Windows OS tablets, enabling seamless functionality and performance.
 - Implement comprehensive unit, integration, and deployment tests to ensure high-quality and reliable software.
@@ -62,7 +62,7 @@ The software development team at the Arabic Language Institute was responsible f
 ### <span>American University, Master of Computing</span> <span>2010 -- 2015</span>
   - GPA 3.76
 #### Main Coursework:
- - Data Mining, Neural Networks and Computer Vision
+ - Data Mining, Neural Networks, and Computer Vision
 ### <span>Cairo University, Bachelor of Computers and Information</span> <span>1998 -- 2002</span>
   - Grade: Very Good (79.5%)
 #### Main Coursework:
@@ -82,7 +82,7 @@ The software development team at the Arabic Language Institute was responsible f
 ### Multi-Dialect Arabic BERT for Country-Level Dialect Identification
 ## Skills
  - __Programming Languages__: C++, C#, Python, Java
- - __Web Development__: ASP.NET, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap
+ - __Web Development__: ASP.NET, Angular, PHP, Flask, Django, HTML, CSS, Javascript, JQuery, Bootstrap
  - __Databases__: MS SQL Server, Oracle, MySQL, PostgreSQL, Amazon RDS
  - __Machine Learning__: nltk, sklearn, keras, tensorflow, pytorch, numpy, matplotlib, pandas
  - __Systems Integration__: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite

@@ -16,7 +16,7 @@ Experienced Senior Software Developer skilled in ASP.NET, PHP, and Python web de
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - Present</span> 
+### <span>Senior Software Engineer, FlairsTech</span> <span>June 2024 - Present</span> 
 ### <span>Assigned to Cubic Transportation Systems client</span> 
 We develop an application to be used by bus drivers to issue tickets, top up rider cards, and send/receive messages to/from the back office
 #### Main Responsibilities:
@@ -26,7 +26,7 @@ We develop an application to be used by bus drivers to issue tickets, top up rid
 - Create C# libraries optimized for Windows OS tablets, enabling seamless functionality and performance.
 - Implement comprehensive unit, integration, and deployment tests to ensure high-quality and reliable software.
   
-### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - December 2022</span> 
+### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - June 2024</span> 
 The primary goal of the university's systems integration team is to facilitate seamless communication and integration among the various software systems utilized by the institution.
 #### Main Responsibilities:
 - Architected, designed, and developed integration projects using C# and BizTalk.

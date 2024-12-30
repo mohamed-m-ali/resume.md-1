@@ -37,13 +37,6 @@ The primary goal of the university's systems integration team is to facilitate s
 - Established Continuous Integration-Continuous Deployment (CI-CD) Pipelines using Github Workflows.
 - Implemented thorough unit, integration, and load testing for reliable software solutions.
 - Provided mentorship and guidance to junior developers, ensuring adherence to best practices in software development.
- 
-###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
-- Built models for Arabic-Dialect Identification to identify dialects of Arabic accurately.
-- Developed an English Co-Reference Resolution model to resolve references in English text.
-- Designed and implemented Intent Clustering and Classification models specifically for Arabic text.
-- Developed and fine-tuned Arabic-based Named Entity Recognition (NER) models to identify named entities in Arabic text.
-- Utilized Python libraries for data visualization and analysis to explore datasets and gain valuable insights.
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
 The software development team at the Arabic Language Institute was responsible for developing web applications to provide services for faculty, staff, and students. These services ranged from allowing students to take their placement exams remotely to allowing faculty to publish their educational materials online.

@@ -11,12 +11,25 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Experienced Senior Software Developer skilled in ASP.NET, PHP, and Python web development since 2005. Proficient in NLP Machine Learning applications since 2015. Expertise in Systems Integration using Biztalk, JitterBit, and Microsoft SSIS since 2018. Seeking a Senior/Principal/Lead Software Developer position in a Software Company.
+Experienced Lead Software Developer skilled in ASP.NET, PHP, and Python web development since 2005. Proficient in NLP Machine Learning applications since 2015. Expertise in Systems Integration using Biztalk, JitterBit, and Microsoft SSIS since 2018. Seeking a Senior/Principal/Lead Software Developer position in a Software Company.
 ## Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>Senior Software Engineer, FlairsTech</span> <span>June 2024 - Present</span> 
+### <span>Development Head, ELM-IT</span> <span>April 2025 - Present</span> 
+We build solutions for telecommunication and educational sectors
+#### Main Responsibilities:
+- Lead business requirements gathering and documentation processes across projects
+- Direct system architecture development and UML documentation that aligns with business objectives
+- Lead system design sessions and make critical decisions on architecture and technology implementations
+- Establish QA standards and testing protocols for software quality assurance
+- Build and mentor high-performing development teams
+- Partner with executives on technical strategy development
+- Oversee project timelines, resources, and development budgets
+- Drive innovation initiatives and technical excellence
+- Serve as primary technical escalation point for complex challenges
+
+### <span>Senior Software Engineer, FlairsTech</span> <span>June 2024 - March 2025</span> 
 ### <span>Assigned to Cubic Transportation Systems client</span> 
 We develop an application to be used by bus drivers to issue tickets, top up rider cards, and send/receive messages to/from the back office
 #### Main Responsibilities:

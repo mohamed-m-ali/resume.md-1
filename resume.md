@@ -16,20 +16,7 @@ Experienced Lead Software Developer skilled in ASP.NET, PHP, and Python web deve
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>Development Head, ELM-IT</span> <span>April 2025 - Present</span> 
-We build solutions for telecommunication and educational sectors
-#### Main Responsibilities:
-- Lead business requirements gathering and documentation processes across projects
-- Direct system architecture development and UML documentation that aligns with business objectives
-- Lead system design sessions and make critical decisions on architecture and technology implementations
-- Establish QA standards and testing protocols for software quality assurance
-- Build and mentor high-performing development teams
-- Partner with executives on technical strategy development
-- Oversee project timelines, resources, and development budgets
-- Drive innovation initiatives and technical excellence
-- Serve as primary technical escalation point for complex challenges
-
-### <span>Senior Software Engineer, FlairsTech</span> <span>June 2024 - March 2025</span> 
+### <span>Senior Software Engineer, FlairsTech</span> <span>June 2024 - Present</span> 
 ### <span>Assigned to Cubic Transportation Systems client</span> 
 We develop an application to be used by bus drivers to issue tickets, top up rider cards, and send/receive messages to/from the back office
 #### Main Responsibilities:
@@ -50,6 +37,13 @@ The primary goal of the university's systems integration team is to facilitate s
 - Established Continuous Integration-Continuous Deployment (CI-CD) Pipelines using Github Workflows.
 - Implemented thorough unit, integration, and load testing for reliable software solutions.
 - Provided mentorship and guidance to junior developers, ensuring adherence to best practices in software development.
+
+###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
+- Built models for Arabic-Dialect Identification to identify dialects of Arabic accurately.
+- Developed an English Co-Reference Resolution model to resolve references in English text.
+- Designed and implemented Intent Clustering and Classification models specifically for Arabic text.
+- Developed and fine-tuned Arabic-based Named Entity Recognition (NER) models to identify named entities in Arabic text.
+- Utilized Python libraries for data visualization and analysis to explore datasets and gain valuable insights.
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
 The software development team at the Arabic Language Institute was responsible for developing web applications to provide services for faculty, staff, and students. These services ranged from allowing students to take their placement exams remotely to allowing faculty to publish their educational materials online.

@@ -6,21 +6,19 @@
 - [mo7amed3ly.github.io](http://mo7amed3ly.github.io)
 - Cairo, Egypt
 
-Lead Software Developer with 15+ years of expertise in enterprise systems integration, full-stack web development, and NLP/ML applications. Proven track record architecting scalable solutions, implementing CI/CD pipelines, and mentoring development teams. Delivered mission-critical integrations for higher education and transportation sectors, combining deep technical knowledge with strategic business alignment.
+Lead Software Developer with 15+ years of expertise in enterprise systems integration, full-stack web development, and NLP/ML applications. Proven track record in architecting scalable solutions, implementing CI/CD pipelines, and mentoring development teams. Delivered mission-critical integrations for higher education and transportation sectors, combining deep technical knowledge with strategic business alignment.
 ## Experience
 
 <span>Senior Software Engineer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
 Architected and developed cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
-Key Achievements:
-
-- Architect and designe integration solutions using C# .NET and AWS serverless technologies, implementing event-driven architectures for transportation workflows
+#### Key Achievements:
+- Architect and design integration solutions using C# .NET and AWS serverless technologies, implementing event-driven architectures for transportation workflows
 - Develop RESTful APIs and microservices using AWS Lambda, enabling seamless integration between transportation management systems
 - Implement data persistence and retrieval solutions using AWS DynamoDB, optimizing for high-throughput logistics operations
-- Participate in requirements analysis and provided technical effort estimates for new features and enhancements
-- Collaborate with architecture team to design scalable solutions following SOA principles and microservices patterns
+- Participate in requirements analysis and provide technical effort estimates for new features and enhancements
+- Collaborate with the architecture team to design scalable solutions following SOA principles and microservices patterns
 - Conduct code reviews and mentored team members on AWS best practices and serverless architecture patterns
-
-Technical Environment:
+#### Technical Environment:
 C#, .NET Core, AWS Lambda, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
 
 ### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - May 2024</span> 
@@ -30,8 +28,7 @@ Developing a Windows-based tablet application for bus drivers to issue tickets, 
 - Led requirements gathering and validation sessions with stakeholders, leveraging UML diagrams to ensure requirement traceability and alignment
 - Architected and developed C# libraries optimized for Windows OS tablets, ensuring high performance in offline-first scenarios
 - Collaborated with system architects and developers in design sessions to establish scalable architecture patterns
-- Implemented comprehensive testing strategy including unit, integration, and deployment tests, achieving 80%+ code coverage
-
+- Implemented a comprehensive testing strategy, including unit, integration, and deployment tests, achieving 80%+ code coverage
 #### Technical Environment:
 C#, .NET, Windows OS, UML, Unit Testing Frameworks
 
@@ -40,24 +37,20 @@ Led integration initiatives connecting 10+ enterprise systems across academic, f
 #### Key Achievements:
 - Architected and implemented BizTalk integration solutions connecting critical university systems, significantly reducing manual data entry and improving data accuracy
 - Established CI/CD pipelines using GitHub Actions, dramatically decreasing deployment time and reducing deployment errors
-- Developed and maitained over 500 REST APIs and SOAP web services using ASP.NET Core (C#), Python, and PHP, enabling real-time data exchange across campus systems
+- Developed and maintained over 500 REST APIs and SOAP web services using ASP.NET Core (C#), Python, and PHP, enabling real-time data exchange across campus systems
 - Built dynamic web applications using ASP.NET Core, enhancing user experience and operational efficiency
 - Designed and implemented ETL processes using C# and Microsoft SSIS, automating data transformations for daily operations
-- Implemented comprehensive testing strategies (unit, integration, load) ensuring high reliability for critical integrations
-
+- Implemented comprehensive testing strategies (unit, integration, load), ensuring high reliability for critical integrations
 #### Technical Environment:
 C#, BizTalk Server, ASP.NET Core, Python, PHP, Microsoft SSIS, REST APIs, SOAP, SQL Server, GitHub Actions, CI/CD
 
 ###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 Developed and deployed NLP models for Arabic language processing, supporting content classification and user experience enhancements for a major Arabic content platform.
-
 #### Key Contributions:
-
-- Built Arabic Dialect Identification models to distinguish between regional dialects achieved 68% accuracy
-- Developed English Co-Reference Resolution model to enhance content coherence analysis, achieved 73% accuracy
+- Built Arabic Dialect Identification models to distinguish between regional dialects, achieving 68% accuracy
+- Developed an English Co-Reference Resolution model to enhance content coherence analysis, achieving 73% accuracy
 - Designed Intent Clustering and Classification models for Arabic text to be used in showing suitable Ads to website visitors
 - Fine-tuned Arabic Named Entity Recognition (NER) models to identify person, location, and organization entities in Arabic text
-
 #### Technical Environment:
 Python, TensorFlow, PyTorch, Keras, scikit-learn, NLTK, Transformers, pandas, numpy, matplotlib
 
@@ -84,7 +77,7 @@ C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, 
 ### <span>Cairo University, Bachelor of Computers and Information</span> <span>1998 -- 2002</span>
   - Grade: Very Good (79.5%)
 #### Main Coursework:
- - Pattern Analysis, Speech Processing and Image Processing
+ - Pattern Analysis, Speech Processing, and Image Processing
 ## Awards
 - SPOT Award, American University in Cairo (September 2019) - Exceptional delivery of integration project
 - SPOT Award, American University in Cairo (October 2020) - Outstanding contribution to automation initiatives
@@ -96,8 +89,8 @@ C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, 
 - Microsoft Certified IT Professional: Database Administrator 2008 - Advanced database administration
 - Oracle Database 10g Administrator Certified Professional - Oracle database management
 ## Publications
-- Character-Level Convolutional Neural Network for Arabic, German and Indo-Aryan Dialect Identification
-	VarDial Workshop, EACL 2017 - Developed CNN-based approach for multi-language dialect identification
+- Character-Level Convolutional Neural Network for Arabic, German, and Indo-Aryan Dialect Identification
+	VarDial Workshop, EACL 2017 - Developed a CNN-based approach for multi-language dialect identification
 - Multi-Dialect Arabic BERT for Country-Level Dialect Identification
 	EMNLP 2020 - Fine-tuned BERT models for Arabic dialect classification across Arab countries
 ## Skills

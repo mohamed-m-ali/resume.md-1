@@ -8,15 +8,13 @@
 
 Lead Software Developer with 15+ years of expertise in enterprise systems integration, full-stack web development, and NLP/ML applications. Proven track record in architecting scalable solutions, implementing CI/CD pipelines, and mentoring development teams. Delivered mission-critical integrations for higher education and transportation sectors, combining deep technical knowledge with strategic business alignment.
 ## Experience
-
-<span>Senior Software Engineer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
+### <span>Senior Software Engineer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
 Architected and developed cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
 #### Key Achievements:
 - Architect and design integration solutions using C# .NET and AWS serverless technologies, implementing event-driven architectures for transportation workflows
 - Develop RESTful APIs and microservices using AWS Lambda, enabling seamless integration between transportation management systems
-- Implement data persistence and retrieval solutions using AWS DynamoDB, optimizing for high-throughput logistics operations
+- Implement data persistence/retrieval solutions using AWS DynamoDB, optimizing for high-throughput logistics operations
 - Participate in requirements analysis and provide technical effort estimates for new features and enhancements
-- Collaborate with the architecture team to design scalable solutions following SOA principles and microservices patterns
 - Conduct code reviews and mentored team members on AWS best practices and serverless architecture patterns
 #### Technical Environment:
 C#, .NET Core, AWS Lambda, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
@@ -26,7 +24,7 @@ C#, .NET Core, AWS Lambda, AWS DynamoDB, RESTful APIs, Microservices, Serverless
 Developing a Windows-based tablet application for bus drivers to issue tickets, manage rider cards, and communicate with back-office systems, serving public transportation networks.
 #### Key Contributions:
 - Led requirements gathering and validation sessions with stakeholders, leveraging UML diagrams to ensure requirement traceability and alignment
-- Architected and developed C# libraries optimized for Windows OS tablets, ensuring high performance in offline-first scenarios
+- Architected and developed C# libraries optimized for Windows OS tablets, ensuring high performance
 - Collaborated with system architects and developers in design sessions to establish scalable architecture patterns
 - Implemented a comprehensive testing strategy, including unit, integration, and deployment tests, achieving 80%+ code coverage
 #### Technical Environment:
@@ -39,7 +37,7 @@ Led integration initiatives connecting 10+ enterprise systems across academic, f
 - Established CI/CD pipelines using GitHub Actions, dramatically decreasing deployment time and reducing deployment errors
 - Developed and maintained over 500 REST APIs and SOAP web services using ASP.NET Core (C#), Python, and PHP, enabling real-time data exchange across campus systems
 - Built dynamic web applications using ASP.NET Core, enhancing user experience and operational efficiency
-- Designed and implemented ETL processes using C# and Microsoft SSIS, automating data transformations for daily operations
+- Designed and implemented ETL processes using C# and Microsoft SSIS, automating data transformations
 - Implemented comprehensive testing strategies (unit, integration, load), ensuring high reliability for critical integrations
 #### Technical Environment:
 C#, BizTalk Server, ASP.NET Core, Python, PHP, Microsoft SSIS, REST APIs, SOAP, SQL Server, GitHub Actions, CI/CD
@@ -63,21 +61,11 @@ Developed web applications for the Arabic Language Institute, serving faculty an
 Technical Environment:
 C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, jQuery, HTML/CSS
 
-### <span>SQL Server Database Administrator, Minia University</span> <span>November 2003 -- November 2008</span> 
-#### Main Responsibilities:
-- Designed and implemented backup and disaster recovery strategies, minimizing potential data loss and downtime
-- Managed database security through role-based access control, ensuring compliance with university data protection policies
-- Developed stored procedures, functions, and views to optimize complex queries and improve reporting efficiency
-
 ## Education
 ### <span>American University, Master of Computing</span> <span>2010 -- 2015</span>
   - GPA 3.76
-#### Main Coursework:
- - Data Mining, Neural Networks, and Computer Vision
 ### <span>Cairo University, Bachelor of Computers and Information</span> <span>1998 -- 2002</span>
   - Grade: Very Good (79.5%)
-#### Main Coursework:
- - Pattern Analysis, Speech Processing, and Image Processing
 ## Awards
 - SPOT Award, American University in Cairo (September 2019) - Exceptional delivery of integration project
 - SPOT Award, American University in Cairo (October 2020) - Outstanding contribution to automation initiatives

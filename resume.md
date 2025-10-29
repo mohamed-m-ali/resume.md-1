@@ -6,10 +6,10 @@
 - [mo7amed3ly.github.io](http://mo7amed3ly.github.io)
 - Cairo, Egypt
 
-Lead Software Developer with 15+ years of expertise in enterprise systems integration, full-stack web development, and NLP/ML applications. Proven track record in architecting scalable solutions, implementing CI/CD pipelines, and mentoring development teams. Delivered mission-critical integrations for higher education and transportation sectors, combining deep technical knowledge with strategic business alignment.
+Senior Software Developer with 15+ years of expertise in enterprise systems integration, full-stack web development, and NLP/ML applications. Proven track record in architecting scalable solutions, implementing CI/CD pipelines, and mentoring development teams. Delivered mission-critical integrations for higher education and transportation sectors, combining deep technical knowledge with strategic business alignment.
 ## Experience
 ### <span>Senior Software Engineer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
-Architected and developed cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
+Architect and develop cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
 #### Key Achievements:
 - Architect and design integration solutions using C# .NET and AWS serverless technologies, implementing event-driven architectures for transportation workflows
 - Develop RESTful APIs and microservices using AWS Lambda, enabling seamless integration between transportation management systems

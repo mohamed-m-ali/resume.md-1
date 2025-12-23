@@ -3,7 +3,6 @@
 - <mo7amed3ly@gmail.com>
 - (+20)01001839504
 - [linkedIn.com/in/mo7amed3ly](https://linkedIn.com/in/mo7amed3ly)
-- [mo7amed3ly.github.io](http://mo7amed3ly.github.io)
 - Cairo, Egypt
 
 Senior Software Developer / Solutions Architect with 15+ years of experience in enterprise systems integration, full-stack web development, and NLP/ML applications. AWS Certified Solutions Architect and TOGAF Certified Enterprise Architect. Proven track record of architecting scalable, secure solutions, implementing CI/CD pipelines, and mentoring engineering teams. Delivered mission-critical systems for higher education and transportation sectors.

@@ -9,7 +9,7 @@ Senior Software Developer / Solutions Architect with 15+ years of experience in 
 ## Experience
 ### <span>Senior Software Engineer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
 Architect and develop cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
-#### Key Achievements:
+#### Key Contributions:
 - Architect and design integration solutions using C# .NET and AWS serverless technologies, implementing event-driven architectures for transportation workflows
 - Develop RESTful APIs and microservices using AWS Lambda, enabling seamless integration between transportation management systems
 - Implement data persistence/retrieval solutions using AWS DynamoDB, optimizing for high-throughput logistics operations
@@ -17,8 +17,7 @@ Architect and develop cloud-based integration solutions for the transportation a
 - Conduct code reviews and mentored team members on AWS best practices and serverless architecture patterns
 #### Technical Environment:
 C#, .NET Core, Microsoft SQL Server, IBM DB2, Azure DevOps, AWS Lambda, AWS SQS, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 ### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - May 2024</span> 
 ### <span>Assigned to Cubic Transportation Systems client</span> 
@@ -30,12 +29,11 @@ Developed a Windows-based tablet application for bus drivers to issue tickets, m
 - Implemented a comprehensive testing strategy, including unit, integration, and deployment tests, achieving 80%+ code coverage
 #### Technical Environment:
 C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - June 2024</span> 
 Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation for a 6,000+ student institution.
-#### Key Achievements:
+#### Key Contributions:
 - Implemented enterprise integrations using Microsoft BizTalk Server as the ESB, enabling reliable message routing and transformation
 - Integrated core ERP and enterprise systems, including SAP, Salesforce, and Oracle Database
 - Built secure payment gateway integrations to support online student fee payments and financial reconciliation
@@ -44,12 +42,9 @@ Led integration initiatives connecting enterprise systems across academic, finan
 - Developed ETL workflows using C# and Microsoft SSIS to automate data transformation and reporting
 - Implemented unit, integration, and load testing to ensure high availability of integration services
 - Built internal ASP.NET Core web applications to improve operational efficiency
-
 ### Technical Environment
-
 C#, ASP.NET Core, BizTalk Server (ESB), SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, GitHub Actions, CI/CD, OWASP Security Standards
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 ###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 Developed and deployed NLP models for Arabic language processing, supporting content classification and user experience enhancements for a major Arabic content platform.
@@ -60,8 +55,7 @@ Developed and deployed NLP models for Arabic language processing, supporting con
 - Fine-tuned Arabic Named Entity Recognition (NER) models to identify person, location, and organization entities in Arabic text
 #### Technical Environment:
 Python, TensorFlow, PyTorch, Keras, scikit-learn, NLTK, Transformers, pandas, numpy, matplotlib
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
 Developed web applications for the Arabic Language Institute, serving faculty and students with online placement testing, course management, and educational content delivery systems.
@@ -69,7 +63,7 @@ Developed web applications for the Arabic Language Institute, serving faculty an
 - Architected and delivered web applications using ASP.NET (Web Forms & MVC), supporting critical academic operations
 - Migrated legacy systems to modern MVC architecture, significantly improving performance and reducing maintenance overhead
 - Developed custom Drupal modules and themes for content management, enabling faculty to publish educational materials more efficiently
-Technical Environment:
+### Technical Environment:
 C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, jQuery, HTML/CSS
 
 ## Education

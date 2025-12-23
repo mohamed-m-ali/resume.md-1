@@ -18,7 +18,7 @@ Architect and develop cloud-based integration solutions for the transportation a
 #### Technical Environment:
 C#, .NET Core, Microsoft SQL Server, IBM DB2, Azure DevOps, AWS Lambda, AWS SQS, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 ### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - May 2024</span> 
 ### <span>Assigned to Cubic Transportation Systems client</span> 
@@ -31,7 +31,7 @@ Developed a Windows-based tablet application for bus drivers to issue tickets, m
 #### Technical Environment:
 C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - June 2024</span> 
 Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation for a 6,000+ student institution.
@@ -49,7 +49,7 @@ Led integration initiatives connecting enterprise systems across academic, finan
 
 C#, ASP.NET Core, BizTalk Server (ESB), SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, GitHub Actions, CI/CD, OWASP Security Standards
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 ###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 Developed and deployed NLP models for Arabic language processing, supporting content classification and user experience enhancements for a major Arabic content platform.
@@ -61,7 +61,7 @@ Developed and deployed NLP models for Arabic language processing, supporting con
 #### Technical Environment:
 Python, TensorFlow, PyTorch, Keras, scikit-learn, NLTK, Transformers, pandas, numpy, matplotlib
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
 Developed web applications for the Arabic Language Institute, serving faculty and students with online placement testing, course management, and educational content delivery systems.

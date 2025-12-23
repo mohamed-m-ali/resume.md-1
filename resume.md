@@ -17,6 +17,7 @@ Architect and develop cloud-based integration solutions for the transportation a
 - Conduct code reviews and mentored team members on AWS best practices and serverless architecture patterns
 #### Technical Environment:
 C#, .NET Core, Microsoft SQL Server, IBM DB2, Azure DevOps, AWS Lambda, AWS SQS, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
+
 ---
 
 ### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - May 2024</span> 
@@ -29,6 +30,7 @@ Developed a Windows-based tablet application for bus drivers to issue tickets, m
 - Implemented a comprehensive testing strategy, including unit, integration, and deployment tests, achieving 80%+ code coverage
 #### Technical Environment:
 C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
+
 ---
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - June 2024</span> 
@@ -44,6 +46,7 @@ Led integration initiatives connecting enterprise systems across academic, finan
 - Built internal ASP.NET Core web applications to improve operational efficiency
 ### Technical Environment
 C#, ASP.NET Core, BizTalk Server (ESB), SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, GitHub Actions, CI/CD, OWASP Security Standards
+
 ---
 
 ###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
@@ -55,6 +58,7 @@ Developed and deployed NLP models for Arabic language processing, supporting con
 - Fine-tuned Arabic Named Entity Recognition (NER) models to identify person, location, and organization entities in Arabic text
 #### Technical Environment:
 Python, TensorFlow, PyTorch, Keras, scikit-learn, NLTK, Transformers, pandas, numpy, matplotlib
+
 ---
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>

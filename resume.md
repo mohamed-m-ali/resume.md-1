@@ -6,7 +6,7 @@
 - [mo7amed3ly.github.io](http://mo7amed3ly.github.io)
 - Cairo, Egypt
 
-Senior Software Developer / Solutions Architect with 15+ years of experience in enterprise systems integration, full-stack web development, and NLP/ML applications. AWS Certified Solutions Architect and TOGAF Certified Enterprise Architect, with a proven track record of architecting scalable, secure solutions, implementing CI/CD pipelines, and mentoring high-performing engineering teams. Delivered mission-critical systems for higher education and transportation sectors by aligning deep technical expertise with strategic business objectives.
+Senior Software Developer / Solutions Architect with 15+ years of experience in enterprise systems integration, full-stack web development, and NLP/ML applications. AWS Certified Solutions Architect and TOGAF Certified Enterprise Architect. Proven track record of architecting scalable, secure solutions, implementing CI/CD pipelines, and mentoring engineering teams. Delivered mission-critical systems for higher education and transportation sectors.
 ## Experience
 ### <span>Senior Software Engineer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
 Architect and develop cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
@@ -19,6 +19,8 @@ Architect and develop cloud-based integration solutions for the transportation a
 #### Technical Environment:
 C#, .NET Core, Microsoft SQL Server, IBM DB2, Azure DevOps, AWS Lambda, AWS SQS, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
 
+---
+
 ### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - May 2024</span> 
 ### <span>Assigned to Cubic Transportation Systems client</span> 
 Developed a Windows-based tablet application for bus drivers to issue tickets, manage rider cards, and securely communicate with back-office systems supporting large-scale public transportation networks.
@@ -29,6 +31,8 @@ Developed a Windows-based tablet application for bus drivers to issue tickets, m
 - Implemented a comprehensive testing strategy, including unit, integration, and deployment tests, achieving 80%+ code coverage
 #### Technical Environment:
 C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
+
+---
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - June 2024</span> 
 Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation for a 6,000+ student institution.
@@ -46,6 +50,8 @@ Led integration initiatives connecting enterprise systems across academic, finan
 
 C#, ASP.NET Core, BizTalk Server (ESB), SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, GitHub Actions, CI/CD, OWASP Security Standards
 
+---
+
 ###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 Developed and deployed NLP models for Arabic language processing, supporting content classification and user experience enhancements for a major Arabic content platform.
 #### Key Contributions:
@@ -55,6 +61,8 @@ Developed and deployed NLP models for Arabic language processing, supporting con
 - Fine-tuned Arabic Named Entity Recognition (NER) models to identify person, location, and organization entities in Arabic text
 #### Technical Environment:
 Python, TensorFlow, PyTorch, Keras, scikit-learn, NLTK, Transformers, pandas, numpy, matplotlib
+
+---
 
 ### <span>Senior Web Developer, American University</span> <span>November 2008 -- July 2018</span>
 Developed web applications for the Arabic Language Institute, serving faculty and students with online placement testing, course management, and educational content delivery systems.

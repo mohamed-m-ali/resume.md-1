@@ -6,7 +6,7 @@
 - [mo7amed3ly.github.io](http://mo7amed3ly.github.io)
 - Cairo, Egypt
 
-Senior Software Developer with 15+ years of expertise in enterprise systems integration, full-stack web development, and NLP/ML applications. Proven track record in architecting scalable solutions, implementing CI/CD pipelines, and mentoring development teams. Delivered mission-critical integrations for higher education and transportation sectors, combining deep technical knowledge with strategic business alignment.
+Senior Software Developer / Solutions Architect with 15+ years of experience in enterprise systems integration, full-stack web development, and NLP/ML applications. AWS Certified Solutions Architect and TOGAF Certified Enterprise Architect, with a proven track record of architecting scalable, secure solutions, implementing CI/CD pipelines, and mentoring high-performing engineering teams. Delivered mission-critical systems for higher education and transportation sectors by aligning deep technical expertise with strategic business objectives.
 ## Experience
 ### <span>Senior Software Engineer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
 Architect and develop cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
@@ -17,30 +17,34 @@ Architect and develop cloud-based integration solutions for the transportation a
 - Participate in requirements analysis and provide technical effort estimates for new features and enhancements
 - Conduct code reviews and mentored team members on AWS best practices and serverless architecture patterns
 #### Technical Environment:
-C#, .NET Core, AWS Lambda, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
+C#, .NET Core, Microsoft SQL Server, IBM DB2, Azure DevOps, AWS Lambda, AWS SQS, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, TypeScript, JavaScript
 
 ### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - May 2024</span> 
 ### <span>Assigned to Cubic Transportation Systems client</span> 
-Developing a Windows-based tablet application for bus drivers to issue tickets, manage rider cards, and communicate with back-office systems, serving public transportation networks.
+Developed a Windows-based tablet application for bus drivers to issue tickets, manage rider cards, and securely communicate with back-office systems supporting large-scale public transportation networks.
 #### Key Contributions:
 - Led requirements gathering and validation sessions with stakeholders, leveraging UML diagrams to ensure requirement traceability and alignment
 - Architected and developed C# libraries optimized for Windows OS tablets, ensuring high performance
 - Collaborated with system architects and developers in design sessions to establish scalable architecture patterns
 - Implemented a comprehensive testing strategy, including unit, integration, and deployment tests, achieving 80%+ code coverage
 #### Technical Environment:
-C#, .NET, Windows OS, UML, Unit Testing Frameworks
+C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - June 2024</span> 
-Led integration initiatives connecting 10+ enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation for a 6,000+ student institution.
+Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation for a 6,000+ student institution.
 #### Key Achievements:
-- Architected and implemented BizTalk integration solutions connecting critical university systems, significantly reducing manual data entry and improving data accuracy
-- Established CI/CD pipelines using GitHub Actions, dramatically decreasing deployment time and reducing deployment errors
-- Developed and maintained over 500 REST APIs and SOAP web services using ASP.NET Core (C#), Python, and PHP, enabling real-time data exchange across campus systems
-- Built dynamic web applications using ASP.NET Core, enhancing user experience and operational efficiency
-- Designed and implemented ETL processes using C# and Microsoft SSIS, automating data transformations
-- Implemented comprehensive testing strategies (unit, integration, load), ensuring high reliability for critical integrations
-#### Technical Environment:
-C#, BizTalk Server, ASP.NET Core, Python, PHP, Microsoft SSIS, REST APIs, SOAP, SQL Server, GitHub Actions, CI/CD
+- Implemented enterprise integrations using Microsoft BizTalk Server as the ESB, enabling reliable message routing and transformation
+- Integrated core ERP and enterprise systems, including SAP, Salesforce, and Oracle Database
+- Built secure payment gateway integrations to support online student fee payments and financial reconciliation
+- Followed OWASP security standards through secure coding and data protection practices
+- Established CI/CD pipelines with GitHub Actions, reducing deployment time and release errors
+- Developed ETL workflows using C# and Microsoft SSIS to automate data transformation and reporting
+- Implemented unit, integration, and load testing to ensure high availability of integration services
+- Built internal ASP.NET Core web applications to improve operational efficiency
+
+### Technical Environment
+
+C#, ASP.NET Core, BizTalk Server (ESB), SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, GitHub Actions, CI/CD, OWASP Security Standards
 
 ###  <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
 Developed and deployed NLP models for Arabic language processing, supporting content classification and user experience enhancements for a major Arabic content platform.
@@ -83,7 +87,7 @@ C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, 
 	EMNLP 2020 - Fine-tuned BERT models for Arabic dialect classification across Arab countries
 ## Skills
  - __Programming Languages__: C++, C#, Python, Java
- - __Web Development__: ASP.NET Core, ASP.NET MVC, Angular, Flask, Django, HTML5, CSS3, JavaScript, jQuery, ajax, Bootstrap
+ - __Web Development__: ASP.NET Core, ASP.NET MVC, Angular, Flask, Django, HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap
  - __Databases__: MS SQL Server, Oracle, MySQL, PostgreSQL, Amazon RDS, DynamoDB
  - __Machine Learning/NLP__: nltk, sklearn, keras, tensorflow, pytorch, numpy, matplotlib, pandas
  - __Systems Integration__: Biztalk, Jitterbit, Microsoft SSIS, AxiomElite

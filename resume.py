@@ -12,7 +12,7 @@ import tempfile
 
 import markdown
 
-preamble = """\
+preamble = """\\
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -25,7 +25,7 @@ preamble = """\
 <div id="resume">
 """
 
-postamble = """\
+postamble = """\\
 </div>
 </body>
 </html>
@@ -40,16 +40,16 @@ CHROME_GUESSES_MACOS = (
 # https://stackoverflow.com/a/40674915/409879
 CHROME_GUESSES_WINDOWS = (
     # Windows 10
-    os.path.expandvars(r"%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe"),
-    os.path.expandvars(r"%ProgramFiles%\Google\Chrome\Application\chrome.exe"),
-    os.path.expandvars(r"%LocalAppData%\Google\Chrome\Application\chrome.exe"),
+    os.path.expandvars(r"%ProgramFiles(x86)%\\Google\\Chrome\\Application\\chrome.exe"),
+    os.path.expandvars(r"%ProgramFiles%\\Google\\Chrome\\Application\\chrome.exe"),
+    os.path.expandvars(r"%LocalAppData%\\Google\\Chrome\\Application\\chrome.exe"),
     # Windows 7
-    r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
-    r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    r"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    r"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
     # Vista
-    r"C:\Users\UserName\AppDataLocal\Google\Chrome",
+    r"C:\\Users\\UserName\\AppDataLocal\\Google\\Chrome",
     # XP
-    r"C:\Documents and Settings\UserName\Local Settings\Application Data\Google\Chrome",
+    r"C:\\Documents and Settings\\UserName\\Local Settings\\Application Data\\Google\\Chrome",
 )
 
 # https://unix.stackexchange.com/a/439956/20079
@@ -126,20 +126,20 @@ def write_pdf(html: str, prefix: str = "resume", chrome: str = "") -> None:
     html64 = base64.b64encode(html.encode("utf-8"))
     options = [
         "--no-sandbox",
-        "--headless",
-        "--print-to-pdf-no-header",
-        # Keep both versions of this option for backwards compatibility
-        # https://developer.chrome.com/docs/chromium/new-headless.
+        "--headless=new",
+        "--disable-gpu",
+        "--disable-dev-shm-usage",
+        "--disable-software-rasterizer",
         "--no-pdf-header-footer",
+        "--disable-background-networking",
+        "--disable-features=UseDBus",
         "--enable-logging=stderr",
         "--log-level=2",
-        "--in-process-gpu",
-        "--disable-gpu",
     ]
 
     # Ideally we'd use tempfile.TemporaryDirectory here. We can't because
     # attempts to delete the tmpdir fail on Windows because Chrome creates a
-    # file the python process does not have permission to delete. See
+    # file the Python process does not have permission to delete. See
     # https://github.com/puppeteer/puppeteer/issues/2778,
     # https://github.com/puppeteer/puppeteer/issues/298, and
     # https://bugs.python.org/issue26660. If we ever drop Python 3.9 support we

@@ -43,7 +43,6 @@ C#, .NET, Secure Client–Server Communication, Encryption/Decryption, UML, NUni
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - May 2024</span>
 Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation.
 #### Key Contributions:
-- Administered and maintained the Student Evaluation, Assistantship, and Grants systems, handling configuration, troubleshooting, and support for academic departments
 - Analyzed requirements from department managers and stakeholders and designed the resulting solution specs and database integration points (views, functions, services)
 - Architected and developed integrations with Banner, SAP, Salesforce, and Oracle Database, using BizTalk Server as the ESB and SOAP/REST services to move data reliably between systems
 - Migrated source control from TFS to Git and engineered GitHub Actions CI/CD pipelines, reducing deployment friction and release errors
@@ -65,6 +64,7 @@ Developed web applications for the Arabic Language Institute, serving faculty an
 - Developed custom Drupal modules and themes for content management, enabling faculty to publish educational materials more efficiently
 #### Technical Environment:
 C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, jQuery, HTML/CSS
+---
 
 ## Education
 ### <span>American University in Cairo, Master of Computing</span> <span>2010 -- 2015</span>
@@ -76,6 +76,8 @@ C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, 
 - SPOT Award, American University in Cairo (September 2019) - Exceptional delivery of integration project
 - SPOT Award, American University in Cairo (October 2020) - Outstanding contribution to automation initiatives
 - SPOT Award, American University in Cairo (October 2021) - Excellence in mentoring and establishing best practices
+
+<div style="page-break-before: always;"></div>
 
 ## Certifications
 - AWS Certified Solutions Architect - Cloud architecture design and best practices

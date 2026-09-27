@@ -43,7 +43,7 @@ C#, .NET, Secure Client–Server Communication, Encryption/Decryption, UML, NUni
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - May 2024</span>
 Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation.
 #### Key Contributions:
-- Analyzed requirements from department managers and stakeholders and designed the resulting solution specs and database integration points (views, functions, services)
+- Analyzed requirements from department managers and stakeholders and designed the resulting solution specs and database integration points
 - Architected and developed integrations with Banner, SAP, Salesforce, and Oracle Database, using BizTalk Server as the ESB and SOAP/REST services to move data reliably between systems
 - Migrated source control from TFS to Git and engineered GitHub Actions CI/CD pipelines, reducing deployment friction and release errors
 - Led delivery of several in-house projects end to end — sprint planning, resourcing, and support — and managed third-party vendor relationships for upgrades and SLA compliance

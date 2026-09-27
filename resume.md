@@ -36,7 +36,7 @@ Developed a Windows-based tablet application for bus drivers to issue tickets, m
 #### Technical Environment:
 C#, .NET, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
 
----
+<div style="page-break-before: always;"></div>
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - May 2024</span>
 Owned integration and in-house application development connecting academic, financial, and student services platforms for a 6,000+ student institution, while also acting as the go-to technical owner for several of the University's core administrative systems.

@@ -38,18 +38,18 @@ C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryptio
 ---
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - May 2024</span>
-Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation for a 6,000+ student institution.
+Owned integration and in-house application development connecting academic, financial, and student services platforms for a 6,000+ student institution, while also acting as the go-to technical owner for several of the University's core administrative systems.
 #### Key Contributions:
-- Implemented enterprise integrations using Microsoft BizTalk Server as the ESB, enabling reliable message routing and transformation
-- Integrated core ERP and enterprise systems, including SAP, Salesforce, and Oracle Database
-- Built secure payment gateway integrations to support online student fee payments and financial reconciliation
-- Followed OWASP security standards through secure coding and data protection practices
-- Established CI/CD pipelines with GitHub Actions, reducing deployment time and release errors
-- Developed ETL workflows using C# and Microsoft SSIS to automate data transformation and reporting
-- Implemented unit, integration, and load testing to ensure high availability of integration services
-- Built internal ASP.NET Core web applications to improve operational efficiency
+- Held day-to-day technical ownership of the Student Evaluation, Assistantship, and Grants systems, handling configuration changes, troubleshooting, and support requests from academic departments
+- Sat down with department managers and other stakeholders to work out what a workflow actually needed, then turned that into concrete specs and the database views, functions, and services to back it
+- Built integrations with Banner alongside SAP, Salesforce, and Oracle Database, using BizTalk Server as the ESB and a mix of SOAP and REST services to move data reliably between systems
+- Moved the team's source control from TFS to Git and set up GitHub Actions pipelines afterward, cutting down on deployment friction and release mistakes
+- Ran the delivery side of several in-house projects end to end — sprint planning, hand-offs, and ongoing support — and stayed the main point of contact with outside vendors on upgrades and SLA terms
+- Built internal tools and portals for staff and students using ASP.NET Core, PHP, Python, JavaScript, and jQuery, replacing a fair number of manual, paper-based processes
+- Built the payment gateway integrations behind online student fee payments and reconciliation, keeping OWASP practices in mind throughout
+- Wrote ETL jobs in C# and SSIS for recurring data transformation and reporting, backed by unit, integration, and load tests to keep the integration layer stable
 #### Technical Environment:
-C#, ASP.NET Core, BizTalk Server (ESB), SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, GitHub Actions, CI/CD, OWASP Security Standards
+C#, ASP.NET Core, BizTalk Server (ESB), Banner, SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, JavaScript, jQuery, HTML/CSS, TFS, Git, GitHub Actions, CI/CD, OWASP Security Standards
 
 ---
 

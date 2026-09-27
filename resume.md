@@ -9,7 +9,7 @@ Lead Software Developer / Solutions Architect with 15+ years of experience in en
 
 ## Experience
 
-### <span>Lead Software Developer, Transflo (Pegasus Transtech)</span> <span>June 2024 - Present</span>
+### <span>Lead Software Developer, Transflo (Pegasus Transtech)</span> <span>June 2026 - Present</span>
 Lead and architect cloud-based integration solutions for the transportation and logistics industry, building scalable microservices to connect disparate systems and enable real-time data exchange.
 #### Key Contributions:
 - Lead technical direction and architecture of integration solutions using C# .NET and AWS serverless technologies, implementing event-driven architectures for transportation workflows
@@ -24,7 +24,7 @@ C#, .NET Core, Microsoft SQL Server, IBM DB2, Azure DevOps, AWS Lambda, AWS SQS,
 
 ---
 
-### <span>Senior Software Engineer, FlairsTech</span> <span>December 2022 - May 2024</span>
+### <span>Senior Software Engineer, FlairsTech</span> <span>June 2024 - June 2026</span>
 ### <span>Assigned to Cubic Transportation Systems client</span>
 Developed a Windows-based tablet application for bus drivers to issue tickets, manage rider cards, and securely communicate with back-office systems supporting large-scale public transportation networks.
 #### Key Contributions:
@@ -37,7 +37,7 @@ C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryptio
 
 ---
 
-### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - November 2022</span>
+### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - May 2024</span>
 Led integration initiatives connecting enterprise systems across academic, financial, and student services platforms, enabling seamless data flow and process automation for a 6,000+ student institution.
 #### Key Contributions:
 - Implemented enterprise integrations using Microsoft BizTalk Server as the ESB, enabling reliable message routing and transformation

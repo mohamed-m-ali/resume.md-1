@@ -22,6 +22,7 @@ Lead and architect cloud-based integration solutions for the transportation and 
 #### Technical Environment:
 C#, .NET Core, Microsoft SQL Server, IBM DB2, Azure DevOps, AWS Lambda, AWS SQS, AWS DynamoDB, RESTful APIs, Microservices, Serverless Architecture, Angular, TypeScript, JavaScript, Claude AI API
 
+
 ---
 
 ### <span>Senior Software Engineer, FlairsTech</span> <span>June 2024 - June 2026</span>
@@ -33,35 +34,24 @@ Developed a Windows-based tablet application for bus drivers to issue tickets, m
 - Collaborated with system architects and developers in design sessions to establish scalable architecture patterns
 - Implemented a comprehensive testing strategy, including unit, integration, and deployment tests, achieving 80%+ code coverage
 #### Technical Environment:
-C#, .NET, Windows OS, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
+C#, .NET, Secure Client–Server Communication, Encryption/Decryption, UML, NUnit Test, Jenkins
 
 ---
 
 ### <span>Senior Systems Integration Developer, American University in Cairo</span> <span>August 2018 - May 2024</span>
 Owned integration and in-house application development connecting academic, financial, and student services platforms for a 6,000+ student institution, while also acting as the go-to technical owner for several of the University's core administrative systems.
 #### Key Contributions:
-- Held day-to-day technical ownership of the Student Evaluation, Assistantship, and Grants systems, handling configuration changes, troubleshooting, and support requests from academic departments
-- Sat down with department managers and other stakeholders to work out what a workflow actually needed, then turned that into concrete specs and the database views, functions, and services to back it
-- Built integrations with Banner alongside SAP, Salesforce, and Oracle Database, using BizTalk Server as the ESB and a mix of SOAP and REST services to move data reliably between systems
-- Moved the team's source control from TFS to Git and set up GitHub Actions pipelines afterward, cutting down on deployment friction and release mistakes
-- Ran the delivery side of several in-house projects end to end — sprint planning, hand-offs, and ongoing support — and stayed the main point of contact with outside vendors on upgrades and SLA terms
-- Built internal tools and portals for staff and students using ASP.NET Core, PHP, Python, JavaScript, and jQuery, replacing a fair number of manual, paper-based processes
-- Built the payment gateway integrations behind online student fee payments and reconciliation, keeping OWASP practices in mind throughout
-- Wrote ETL jobs in C# and SSIS for recurring data transformation and reporting, backed by unit, integration, and load tests to keep the integration layer stable
+- Administered and maintained the Student Evaluation, Assistantship, and Grants systems, handling configuration, troubleshooting, and support for academic departments
+- Analyzed requirements from department managers and stakeholders and designed the resulting solution specs and database integration points (views, functions, services)
+- Architected and developed integrations with Banner, SAP, Salesforce, and Oracle Database, using BizTalk Server as the ESB and SOAP/REST services to move data reliably between systems
+- Migrated source control from TFS to Git and engineered GitHub Actions CI/CD pipelines, reducing deployment friction and release errors
+- Led delivery of several in-house projects end to end — sprint planning, resourcing, and support — and managed third-party vendor relationships for upgrades and SLA compliance
+- Developed internal tools and portals for staff and students using ASP.NET Core, PHP, Python, JavaScript, and jQuery, replacing manual, paper-based processes
+- Designed and implemented secure payment gateway integrations for online student fee payments and reconciliation, following OWASP standards
+- Developed ETL workflows in C# and SSIS for data transformation and reporting, and implemented unit, integration, and load testing to keep the integration layer stable
 #### Technical Environment:
 C#, ASP.NET Core, BizTalk Server (ESB), Banner, SAP, Salesforce, Oracle Database, REST APIs, SOAP, Microsoft SSIS, SQL Server, Python, PHP, JavaScript, jQuery, HTML/CSS, TFS, Git, GitHub Actions, CI/CD, OWASP Security Standards
 
----
-
-### <span>Senior Machine Learning Engineer, Mawdoo3.com (Part-Time)</span> <span>November 2019 - November 2022</span>
-Developed and deployed NLP models for Arabic language processing, supporting content classification and user experience enhancements for a major Arabic content platform.
-#### Key Contributions:
-- Built Arabic Dialect Identification models to distinguish between regional dialects, achieving 68% accuracy
-- Developed an English Co-Reference Resolution model to enhance content coherence analysis, achieving 73% accuracy
-- Designed Intent Clustering and Classification models for Arabic text to be used in showing suitable Ads to website visitors
-- Fine-tuned Arabic Named Entity Recognition (NER) models to identify person, location, and organization entities in Arabic text
-#### Technical Environment:
-Python, TensorFlow, PyTorch, Keras, scikit-learn, NLTK, Transformers, pandas, numpy, matplotlib
 
 ---
 

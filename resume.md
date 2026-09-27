@@ -64,6 +64,7 @@ Developed web applications for the Arabic Language Institute, serving faculty an
 - Developed custom Drupal modules and themes for content management, enabling faculty to publish educational materials more efficiently
 #### Technical Environment:
 C#, ASP.NET Web Forms, ASP.NET MVC, PHP, Drupal, SQL Server, MySQL, JavaScript, jQuery, HTML/CSS
+
 ---
 
 ## Education
